@@ -3,6 +3,8 @@ package com.aws.codestar.projecttemplates;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+//Test
+
 /** Simple class to start up the application.
  *
  * @SpringBootApplication adds:
